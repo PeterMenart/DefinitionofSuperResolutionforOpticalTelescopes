@@ -5,8 +5,11 @@ CRB for direct imaging, which serves as a benchmark for super-resolution, and th
 
 We also provide a natural gradient descent algorithm that achieves the classical CRB for direct imaging and can be adapted to super-resolution techniques using Pytorch's autograd functionality.
 
-## Conventions
+### Conventions
 
+### Script 1
+
+### Script 2
 
 
 
