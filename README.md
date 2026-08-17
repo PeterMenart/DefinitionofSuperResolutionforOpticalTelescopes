@@ -11,6 +11,10 @@ We also provide a natural gradient descent algorithm that achieves the classical
 
 ### Script 2
 
+# Citing
+If you use or reference this code for your own research, we ask you to cite the original paper:
+
+Menart, P., Choi, S., Jacob, Z. "Definition of Optical Super-Resolution for Telecopes."
 
 
 
