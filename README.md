@@ -5,7 +5,7 @@ CRB for direct imaging, which serves as a benchmark for super-resolution, and th
 
 We also provide a natural gradient descent algorithm that achieves the classical CRB for direct imaging and can be adapted to super-resolution techniques using Pytorch's autograd functionality.
 
-# \*\*Code is available in the releases tab under the release MainCode**
+# \*\*Code is available in the releases tab under the release TelescopeSuperResolutionCode**
 
 ### Conventions and Notes
 * Variables that contain parameter values, such as `params_curr`, have shape (3, Number of sources), and the parameter values are ordered as (y position, x position, brightness). For example, the y position of the second source would be indexed as [0, 1].
