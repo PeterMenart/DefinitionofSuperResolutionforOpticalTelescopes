@@ -5,6 +5,8 @@ CRB for direct imaging, which serves as a benchmark for super-resolution, and th
 
 We also provide a natural gradient descent algorithm that achieves the classical CRB for direct imaging and can be adapted to super-resolution techniques using Pytorch's autograd functionality.
 
+# \*\*Code is available in the releases tab under the release MainCode**
+
 ### Conventions and Notes
 * Variables that contain parameter values, such as `params_curr`, have shape (3, Number of sources), and the parameter values are ordered as (y position, x position, brightness). For example, the y position of the second source would be indexed as [0, 1].
 * In these scripts, we mostly use analytical expressions for derivatives since they are not difficult to calculate for the Airy Disk model. For more complicated forward models, autograd functionality can be used to automatically calculate the derivatives. An example of this is given in the QFIM calculation.
