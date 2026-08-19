@@ -25,7 +25,7 @@ This script provides an example of calculating the classical and quantum error l
 This script provides an example of running the natural gradient descent algorithm on simulated noisy images and comparing the performance to the error limits. It can be used to reproduce the results of Figure 3 of the paper.
 
 # Citing
-If you use or reference this code for your own research, we ask you to cite the original paper:
+If you use or reference this code for your own research, cite the original paper:
 
 Menart, P., Choi, S., Jacob, Z. "Definition of Multi-Parameter Super-Resolution for Optical Telescopes."
 
